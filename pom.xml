@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jakekert</groupId>
-	<artifactId>chatgeepeetea</artifactId>
+	<artifactId>task app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chatgeepeetea</name>
-	<description>Demo project for Spring Boot</description>
+	<name>task-app</name>
+	<description>Task App Task App Task App!!!</description>
 	<url/>
 	<licenses>
 		<license/>

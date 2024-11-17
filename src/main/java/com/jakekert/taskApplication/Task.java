@@ -14,10 +14,10 @@ public class Task {
     private String id;
     @Getter
     @Setter
-    private String name;
+    private String task;
     @Getter
     @Setter
-    private String email;
+    private String description;
 
     // Constructors, getters, setters, etc.
 }
